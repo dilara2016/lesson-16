@@ -1,4 +1,4 @@
-valid = False
+valid = true
 while not valid:
     try:
         n=int(input("Enter a number:  "))
